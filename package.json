@@ -1,0 +1,12 @@
+{
+    "name": "VI-SALE-DEMO-V1",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "CVSDemo.json",
+            "credentialsFile": "CVSDemo_cred.json"
+        }
+    }
+}
